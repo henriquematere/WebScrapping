@@ -1,12 +1,12 @@
 Automatizador de Busca de Odds na Bet365
 Projeto pessoal para facilitar a análise de apostas esportivas
 
-Criei esse robô para automatizar a busca por odds específicas no site da Bet365, principalmente para jogos de futebol brasileiro. 
+Criei esse robô para automatizar a busca por odds específicas no site da Bet365.
 
 Ele faz o seguinte:
 
 1. Acessa o site da Bet365 e lida com os popups iniciais
-2. Navegar até a seção de futebol automaticamente
+2. Navega até a seção de futebol automaticamente
 3. Encontrar jogos específicos que eu quero analisar
 4. Localizar as odds de mercados específicos (como Over 1.5 gols)
 
